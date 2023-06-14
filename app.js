@@ -36,7 +36,7 @@ function randomGame() {
 	}, 1000);
 }
 function main() {
-	countDown(4);
+	countDown(5);
 	randomGame();
 }
 
